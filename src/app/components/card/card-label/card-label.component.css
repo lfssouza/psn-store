@@ -1,0 +1,16 @@
+.label{
+  position: absolute;
+  bottom: 90px;
+  right: 0;
+}
+
+.label-content img{
+  display: flex;
+  align-items: self-start;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 40px;
+  padding: 0px;
+}
+
+
